@@ -8,7 +8,6 @@ Typst is a powerful, friendly, and real-time rendering software for creating doc
 
 I created this template for my own PhD thesis which you can see here: https://github.com/njericha/phd-thesis.
 
-
 ## Sample pages
 
 ![Example cover page](sample-pages/sample-cover-page.png)
